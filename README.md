@@ -1,5 +1,4 @@
 Markdown
-
 # Universal Constant Papers
 
 * [Metric Synchronization in Quantum Wave-Function Dynamics](Metric%20Synchronization%20in%20Quantum%20Wave-Function%20Dynamics-1-1.pdf)
@@ -7,3 +6,4 @@ Markdown
 * [Scale-Invariant Metric Boundaries in Outer Solar System Dynamics (Planet Nine)](Planet_Nine_Derivation.md)
 * [Theory of Neural Membrane Dynamics](tue_oct_20_2026_theory_of_neural_membrane_dynamics_and.json)
 * [Temporal Causality: Modeling Time as the Agent of Quantum Collapse](Temporal_Causality_full_original_clean-1.pdf)
+* [Scale-Invariant Metric Boundaries in Outer Solar System Dynamics (Planet Nine)](Planet_Nine_Derivation.md)

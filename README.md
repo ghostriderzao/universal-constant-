@@ -1,4 +1,4 @@
-Markdown
+
 This repository archives derivations and empirical boundary models for universal metric synchronization ($G_c = \pm 1.0857$). The framework models coordinate transformations across quantum dynamics, outer solar system mechanics (Planet Nine), neural membrane potentials, and temporal causality.
 
 # Universal Constant Papers

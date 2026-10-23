@@ -9,4 +9,4 @@ This repository archives derivations and empirical boundary models for universal
 * [Theory of Neural Membrane Dynamics](tue_oct_20_2026_theory_of_neural_membrane_dynamics_and.json)
 * [Temporal Causality: Modeling Time as the Agent of Quantum Collapse](Temporal_Causality_full_original_clean-1.pdf)
 * [Scale-Invariant Metric Transformations in Cellular Morphogenesis](Scale-Invariant%20Metric%20Transformations%20in%20Cellular%20Morphogenesis%20Mapping%20Bioelectric%20Membrane%20Potentials%20and%20Blastema%20Regeneration%20via%20Universal%20Anchors-4.pdf)
-* [Metric Scaling Transformations in Synthetic Spacetimes and Analog Optical Lattices.pdf]
+* [<Metric Scaling Transformations in Synthetic Spacetimes and Analog Optical Lattices.pdf]>

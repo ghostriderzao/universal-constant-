@@ -10,5 +10,5 @@ This repository archives derivations and empirical boundary models for universal
 * [Temporal Causality: Modeling Time as the Agent of Quantum Collapse](Temporal_Causality_full_original_clean-1.pdf)
 * [Scale-Invariant Metric Transformations in Cellular Morphogenesis](Scale-Invariant%20Metric%20Transformations%20in%20Cellular%20Morphogenesis%20Mapping%20Bioelectric%20Membrane%20Potentials%20and%20Blastema%20Regeneration%20via%20Universal%20Anchors-4.pdf)
 * [Metric Scaling Transformations in Synthetic Spacetimes and Analog Optical Lattices.pdf](Metric%20Scaling%20Transformations%20in%20Synthetic%20Spacetimes%20and%20Analog%20Optical%20Lattices.pdf)
-*[A Deterministic Field Theory of Cellular Transduction Non-Linear Metric Invariants, Transverse Dipole Gauge Constraints, and Entropic Damage Dynamics](A%20Deterministic%20Field%20Theory%20of%20Cellular%20Transduction%20Non-Linear%20Metric%20Invariants%2C%20Transverse%20Dipole%20Gauge%20Constraints%2C%20and%20Entropic%20Damage%20Dynamics.pdf)
+* [A Deterministic Field Theory of Cellular Transduction Non-Linear Metric Invariants, Transverse Dipole Gauge Constraints, and Entropic Damage Dynamics](A%20Deterministic%20Field%20Theory%20of%20Cellular%20Transduction%20Non-Linear%20Metric%20Invariants%2C%20Transverse%20Dipole%20Gauge%20Constraints%2C%20and%20Entropic%20Damage%20Dynamics.pdf)
 
